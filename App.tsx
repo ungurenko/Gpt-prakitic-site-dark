@@ -353,9 +353,9 @@ const App: React.FC = () => {
                   <div className="aspect-[4/5] rounded-2xl md:rounded-3xl overflow-hidden relative z-10 border border-white/10 shadow-2xl group">
                      <div className="absolute inset-0 bg-gradient-to-t from-dark-900 via-transparent to-transparent opacity-60"></div>
                      {/* Placeholder Image */}
-                     <img 
-                       src="https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=1000&auto=format&fit=crop" 
-                       alt="Автор курса" 
+                     <img
+                       src="https://i.imgur.com/CfxhtFn.png"
+                       alt="Автор курса"
                        className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                      />
                      <div className="absolute bottom-0 left-0 p-4 md:p-6">
